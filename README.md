@@ -1,7 +1,3 @@
-"# PromineoTechWeek7" 
-<<<<<<< HEAD
-"# PromineoTechWeek7" 
-"# PromineoTechWeek07" 
 "# PromineoTechWeek07 WITH WEEK 8 ADDENDUM" 
 =======
 "# PromineoTechWeek07" 
